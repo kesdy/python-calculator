@@ -5,4 +5,6 @@
 - Eğer herhangi bir sorunla karşılaşırsanız , benimle Discord Sunucusu ve İnstagram adresim üzerinden iletişim sağlayabilirsiniz.
 
 Instagram = instagram.com/kesdyy
+
+
 Discord Server = https://discord.gg/qR3PxpanX4
